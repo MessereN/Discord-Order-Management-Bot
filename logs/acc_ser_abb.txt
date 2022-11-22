@@ -1,0 +1,81 @@
+READ ME!!!
+
+Account/Service Abbreviations
+
+Account #1 --> acc1
+
+Account #2 --> acc2
+
+Account #3 --> acc3
+
+Account #4 --> acc4
+
+Account #5 --> acc5
+
+Account #6 CS1 --> acc6cs1
+
+Account #6 CS2 --> acc6cs2
+
+Account #6 CS3 --> acc6cs3
+
+10K LD --> 10kld
+
+15K LD --> 15kld
+
+20K LD --> 20kld
+
+30K LD --> 30kld
+
+50K LD --> 50kld
+
+75K LD --> 75kld
+
+100K LD --> 100kld
+
+Account #1 with 30K LD --> acc1w30k
+
+Account #1 with 50K LD --> acc1w50k
+
+Account #1 with 100K LD --> acc1w100k
+
+Account #2 with 30K LD --> acc2w30k
+
+Account #2 with 50K LD --> acc2w50k
+
+Account #2 with 100K LD --> acc2w100k
+
+Account #3 with 30K LD --> acc3w30k
+
+Account #3 with 50K LD --> acc3w50k
+
+Account #3 with 100K LD --> acc3w100k
+
+Account #4 with 30K LD --> acc4w30k
+
+Account #4 with 50K LD --> acc4w50k
+
+Account #4 with 100K LD --> acc4w100k
+
+Account #5 with 30K LD --> acc5w30k
+
+Account #5 with 50K LD --> acc5w50k
+
+Account #5 with 100K LD --> acc5w100k
+
+Account #6 CS1 with 30K LD --> acc6cs1w30k
+
+Account #6 CS1 with 50K LD --> acc6cs1w50k
+
+Account #6 CS1 with 100K LD --> acc6cs1w100k
+
+Account #6 CS2 with 30K LD --> acc6cs2w30k
+
+Account #6 CS2 with 50K LD --> acc6cs2w50k
+
+Account #6 CS2 with 100K LD --> acc6cs2w100k
+
+Account #6 CS3 with 30K LD --> acc6cs3w30k
+
+Account #6 CS3 with 50K LD --> acc6cs3w50k
+
+Account #6 CS3 with 100K LD --> acc6cs3w100k

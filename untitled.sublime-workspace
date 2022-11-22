@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pas",
+				"pass_psn"
+			],
+			[
+				"p",
+				"print_"
+			],
+			[
+				"new",
+				"new_q"
+			],
+			[
+				"div",
+				"div_queue_obj"
+			],
+			[
+				"acc",
+				"account_queue_obj"
+			],
+			[
+				"queue_",
+				"queue_system"
+			],
+			[
+				"ac",
+				"account_div_queue"
+			],
+			[
+				"account",
+				"account_queue"
+			],
+			[
+				"account_qu",
+				"account_queue_file"
+			],
+			[
+				"a",
+				"account_queue"
+			],
+			[
+				"chec",
+				"check_if_me"
+			],
+			[
+				"en",
+				"enqueue"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"rem",
+				"remove_look"
+			],
+			[
+				"prin",
+				"print_"
+			],
+			[
+				"__",
+				"__items"
+			],
+			[
+				"pri",
+				"print_"
+			],
+			[
+				"em",
+				"emoji"
+			],
+			[
+				"eror",
+				"error"
+			],
+			[
+				"pa",
+				"paynow_usage_message"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"su",
+				"__success_pay_now_message"
+			],
+			[
+				"pay",
+				"pay_success"
+			],
+			[
+				"err",
+				"error_pay_now_message"
+			],
+			[
+				"pay_",
+				"pay_success"
+			],
+			[
+				"er",
+				"error_pay_now_message"
+			],
+			[
+				"ke",
+				"keep_data"
+			],
+			[
+				"ad",
+				"admin_data"
+			],
+			[
+				"admi",
+				"admin_data"
+			],
+			[
+				"is",
+				"is_dm"
+			],
+			[
+				"Adm",
+				"Admin_tools"
+			],
+			[
+				"mem",
+				"member_discrimintor"
+			],
+			[
+				"member",
+				"member_name"
+			],
+			[
+				"has",
+				"hashed_key1"
+			],
+			[
+				"ha",
+				"hashed_key1"
+			],
+			[
+				"hash",
+				"hashed_key1"
+			],
+			[
+				"hah",
+				"hashed_key2"
+			],
+			[
+				"hashed",
+				"hashed_key1"
+			],
+			[
+				"P",
+				"PRIME1"
+			],
+			[
+				"My",
+				"MyDoubleHashTable"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"wor",
+				"wordlist"
+			],
+			[
+				"aut",
+				"autoHelper"
+			],
+			[
+				"ch",
+				"char_to_position"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"huf",
+				"huffN"
+			],
+			[
+				"ge",
+				"getBalanceFactor"
+			],
+			[
+				"ri",
+				"rightRotate"
+			],
+			[
+				"r",
+				"reBalance"
+			],
+			[
+				"re",
+				"reBalance"
+			],
+			[
+				"righ",
+				"rightRotate"
+			],
+			[
+				"ro",
+				"leftRotate"
+			],
+			[
+				"get",
+				"getBalanceFactor"
+			],
+			[
+				"find",
+				"findLargest"
+			],
+			[
+				"fin",
+				"findLargest"
+			],
+			[
+				"f",
+				"findLargest"
+			],
+			[
+				"fi",
+				"findLargest"
+			],
+			[
+				"_",
+				"__len__"
+			],
+			[
+				"SIZ",
+				"SIZEX-1"
+			],
+			[
+				"PAS",
+				"PAST_X_SELF"
+			],
+			[
+				"co",
+				"colour"
+			],
+			[
+				"PA",
+				"PAST_X_SELF"
+			],
+			[
+				"draw",
+				"drawLine"
+			],
+			[
+				"Y_",
+				"Y_MAX"
+			],
+			[
+				"X",
+				"X_SELF"
+			],
+			[
+				"Y",
+				"Y_SELF"
+			],
+			[
+				"ptr",
+				"ptr_trans"
+			],
+			[
+				"new_",
+				"new_CmdNode"
+			],
+			[
+				"cmd",
+				"cmdNum"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"cata",
+				"catalog_size"
+			],
+			[
+				"ma",
+				"material"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"pt",
+				"ptr_return"
+			],
+			[
+				"cat",
+				"catalog"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"le",
+				"len_phrase"
+			],
+			[
+				"len",
+				"len_str"
+			],
+			[
+				"strin",
+				"string_mover"
+			],
+			[
+				"vo",
+				"vowels"
+			],
+			[
+				"voe",
+				"vowel_list"
+			],
+			[
+				"LEN",
+				"len_str"
+			],
+			[
+				"M",
+				"MAX_STRING_LEN"
+			],
+			[
+				"b",
+				"b_len"
+			],
+			[
+				"subs",
+				"substring_finder"
+			],
+			[
+				"rep",
+				"replace_with"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"search",
+				"search_hp"
+			],
+			[
+				"list",
+				"list_perm"
+			],
+			[
+				"pro",
+				"pro_data"
+			],
+			[
+				"query",
+				"query_help3"
+			],
+			[
+				"fol",
+				"follower_infodict"
+			],
+			[
+				"fo",
+				"follower_infodict"
+			],
+			[
+				"pro_",
+				"pro_data"
+			],
+			[
+				"FOL",
+				"FOLLOWERS"
+			],
+			[
+				"foll",
+				"follower_file"
+			],
+			[
+				"all",
+				"all_followers"
+			],
+			[
+				"T",
+				"TextIO"
+			],
+			[
+				"proc",
+				"process_data"
+			],
+			[
+				"twi",
+				"twitter_query_file"
+			],
+			[
+				"tw",
+				"twitter_query_file"
+			],
+			[
+				"spl",
+				"split_item2"
+			],
+			[
+				"pre",
+				"present_dict"
+			],
+			[
+				"data",
+				"data_dict"
+			],
+			[
+				"fil",
+				"filter_dict"
+			],
+			[
+				"split",
+				"split_item"
+			],
+			[
+				"sp",
+				"split_item"
+			],
+			[
+				"filter",
+				"filter_dict"
+			],
+			[
+				"op",
+				"oper_var"
+			],
+			[
+				"END",
+				"ENDBIO"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"dict",
+				"dict_data"
+			],
+			[
+				"dic",
+				"dict_data"
+			],
+			[
+				"di",
+				"dict_data"
+			],
+			[
+				"twit",
+				"twit_data_file"
+			],
+			[
+				"an",
+				"animal_to_locomotion"
+			],
+			[
+				"rent",
+				"rent_bike"
+			],
+			[
+				"av",
+				"av_value"
+			],
+			[
+				"return",
+				"return_bike"
+			],
+			[
+				"st",
+				"string_to_num"
+			],
+			[
+				"string",
+				"string_to_num"
+			],
+			[
+				"IS",
+				"IS_RENTING"
+			],
+			[
+				"calc",
+				"calc_target_perc"
+			],
+			[
+				"Bi",
+				"BIKES_AVAILABLE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Termius",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"whi",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"pip install pyautogui",
+			"sleep",
+			"install sleep",
+			"install pip",
+			"pip intstall sleep"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicholasmessere/Documents/Coding Files/Discord_Bot_FIles/queue_sys.py",
+		"/Users/nicholasmessere/Documents/Coding Files/Discord_Bot_FIles/cogs/admin_tools.py",
+		"/Users/nicholasmessere/Documents/Ryerson/Year 1 Sem 2/CCPS 305/Lab 5 Folder/Lab5Tester.py",
+		"/Users/nicholasmessere/Documents/Ryerson/Year 1 Sem 2/CCPS 305/Lab 5 Folder/practice.py",
+		"/Users/nicholasmessere/Documents/Ryerson/Year 1 Sem 2/CCPS 305/Lab 4/Lab4.py",
+		"/Users/nicholasmessere/Downloads/Lab4.py",
+		"/Users/nicholasmessere/Documents/Ryerson/Year 1 Sem 2/CCPS 305/midterm Practice.py",
+		"/Users/nicholasmessere/Downloads/Lab 2 Folder/Lab2.py",
+		"/Users/nicholasmessere/Downloads/Lab 2 Folder/Lab2-Tester.py",
+		"/Users/nicholasmessere/Downloads/Lab 2 Folder/Lab2-Test-Inputs.txt",
+		"/Users/nicholasmessere/Documents/Ryerson/Year 1 Sem 2/CCPS 305/Lab 1 attached files Feb 2, 2022 248 PM/CPS305 Lab 1.pdf",
+		"/Users/nicholasmessere/Desktop/starter.py",
+		"/Users/nicholasmessere/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/nicholasmessere/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/nicholasmessere/Library/Group Containers/group.com.apple.notes/Accounts/DFE907A8-6EE5-456D-8854-514D68F1A103/Media/0B2C9D00-8FEB-4549-9643-69ADE33D2721/Permutations.java",
+		"/Users/nicholasmessere/Documents/Coding Files/Java Files/HelloWorld",
+		"/Users/nicholasmessere/Documents/Coding Files/Java Files/HelloYou.java",
+		"/Users/nicholasmessere/Library/Application Support/Sublime Text 3/Packages/User/RunJava.sublime-build",
+		"/Users/nicholasmessere/Desktop/intro.java",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Winter Term/Comp Sci 2 CSCA48H3/Assignments/Starter/output.pgm",
+		"/Users/nicholasmessere/Downloads/ex4.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Winter Term/Comp Sci 2 CSCA48H3/Assignments/ex4.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Winter Term/Comp Sci 2 CSCA48H3/Assignments/ex3.c",
+		"/Users/nicholasmessere/Downloads/vid03-pointers.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/UofT Code Year 1/Year 1 Sem 2/aside.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/UofT Code Year 1/Year 1 Sem 2/Exercises.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Winter Term/Comp Sci 2 CSCA48H3/Assignments/ex2.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/UofT Code Year 1/Year 1 Sem 2/my_hello_world.c",
+		"/Users/nicholasmessere/Desktop/UofT Code/Year 1 Sem 2/starter.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Winter Term/Comp Sci 2 CSCA48H3/Assignments/ex1.c",
+		"/Users/nicholasmessere/Desktop/ex1.c",
+		"/Users/nicholasmessere/Downloads/ex1.c",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/UofT Code Year 1/Year 1 Sem 2/starter.c",
+		"/Users/nicholasmessere/Desktop/UofT Code/Year 1 Sem 2/#include <stdio.h>",
+		"/Users/nicholasmessere/Documents/Coding Files/UofT coding folder/scrap.py",
+		"/Users/nicholasmessere/Documents/Coding Files/HelloYou.java",
+		"/Users/nicholasmessere/Documents/Coding Files/UofT coding folder/small.txt",
+		"/Users/nicholasmessere/Documents/Coding Files/UofT coding folder/query_dict.txt",
+		"/Users/nicholasmessere/Documents/Coding Files/UofT coding folder/mock3.py",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Fall Term/Intro to Comp Sci 1            CSCA08H3 F/a3/query4.txt",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Fall Term/Intro to Comp Sci 1            CSCA08H3 F/a3/small_data.txt",
+		"/Users/nicholasmessere/Documents/Coding Files/Bots/Ps5 Best buy bot/ps5_bot.py",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Fall Term/Intro to Comp Sci 1            CSCA08H3 F/a2/a2_checker.py",
+		"/Users/nicholasmessere/Documents/Uoft/Uoft Year 1/Fall Term/Intro to Comp Sci 1            CSCA08H3 F/a2/checker_generic.py"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 126.0
+	},
+	"output.autopep8":
+	{
+		"height": 104.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
