@@ -1,9 +1,9 @@
 #ADMIN INFO ONLY IN USE FOR NICHOLAS AND LUIGI
 
-
+#Not actual token for bot, it has been changed
 TOKEN = "OTk1OTIxMzE0NTEyNjM4MDIy.Geo_3Y.Es4NvCDBNxEKRdpY-z11C4q7VwpP-ibMlyH0tg"
 
-
+#links are no longer valid
 list_links = [
 
 
